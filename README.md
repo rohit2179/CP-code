@@ -1,2 +1,2 @@
 # CP-code
-some code useful in cp
+Contains a variety of functions which can be used directly to solve coding problems.
